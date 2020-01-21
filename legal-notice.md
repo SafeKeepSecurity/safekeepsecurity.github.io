@@ -1,108 +1,19 @@
-# Safekeep Cybersecurity's Privacy Policy
+<h1>Disclaimer for safekeepsecurity.com</h1>
 
+<p>If you require any more information or have any questions about our site's disclaimer, please feel free to contact us by email at legal@safekeepsecurity.com</p>
 
+<h2>Disclaimers for Safekeep Cybersecurity</h2>
 
----
+<p>All the information on this website - https://safekeepsecurity.com - is published in good faith and for general information purpose only. Safekeep Cybersecurity does not make any warranties about the completeness, reliability and accuracy of this information. Any action you take upon the information you find on this website (Safekeep Cybersecurity), is strictly at your own risk. Safekeep Cybersecurity will not be liable for any losses and/or damages in connection with the use of our website. Our Disclaimer was generated with the help of the <a href="https://www.disclaimergenerator.net/">Disclaimer Generator</a> and the <a href="https://www.disclaimer-generator.com.com">Disclaimer Generator</a>.</p>
 
+<p>From our website, you can visit other websites by following hyperlinks to such external sites. While we strive to provide only quality links to useful and ethical websites, we have no control over the content and nature of these sites. These links to other websites do not imply a recommendation for all the content found on these sites. Site owners and content may change without notice and may occur before we have the opportunity to remove a link which may have gone 'bad'.</p>
 
+<p>Please be also aware that when you leave our website, other sites may have different privacy policies and terms which are beyond our control. Please be sure to check the Privacy Policies of these sites as well as their "Terms of Service" before engaging in any business or uploading any information.</p>
 
-This privacy policy sets out how [safekeep cybersecurity](https://safekeepsecurity.com) collects, uses, and 
+<h2>Consent</h2>
 
-protects any information that you either explicitly or automatically 
+<p>By using our website, you hereby consent to our disclaimer and agree to its terms.</p>
 
-send when using this website. Us at safekeepsecurity.com are deeply concerned 
+<h2>Update</h2>
 
-with your privacy as a visitor of this website, and the following 
-
-sections will give details about how any and all data is handled.
-
-
-
-### What this site collects:
-
-
-
-For the most part this site is read-only, however there are a number of 
-
-functions that can and do collect information as a function of what they are. 
-
-
-
-### Cookies Data: 
-
-
-
-Regular use of the Internet involves the sending and receiving of cookie data, 
-
-and this is true for this site as well. No special attempt to harvest 
-
-cookie data is being made on this site, and no attempt is ever made to 
-
-correlate visitor data with real people or identities. DISQUS does some 
-
-of this as a normal part of its functionality, which is discussed above 
-
-and in its privacy policy below, but this is unrelated to this site.
-
-
-
-### IP Data:
-
-
-
-Another natural part of Internet use is the sending of source IP data 
-
-to the destination server—in this case, safekeepsecurity.com. Just as with
-
-cookie data, no attempt is ever made to link source IP addresses to 
-
-people. The only way source IP data is used on this site is indirectly 
-
-by analytics frameworks that are part of the web stack. Each of these 
-
-will be mentioned below, with links to their privacy policies.
-
-
-
-### Ads:
-
-
-
-Our team uses a sponsorship rather than an ad model, so there is no ad 
-
-JavaScript running anywhere. It’s just the link in the sidebar of each 
-
-post.
-
-
-
-Here I will cover how logs are handled, which may contain both cookie and IP address data.
-
-
-
-Access to the site is logged in a standard fashion using the web server logs 
-
-(Apache in this case). These logs may contain cookie and IP address data,
-
-as is standard with most web log formats.
-
-
-
-Access to this server is restricted to very few people (myself and one other person), and log 
-
-data has never been requested—nor provided to—any third party.
-
-
-
-As mentioned earlier, no log data will ever be used to attempt to link 
-
-cookies or IP addresses to actual people, and this log data will never 
-
-be provided to third parties under any circumstances.
-
-
-
-### Site Security and Log Data:
-
-
-
+<p>Should we update, amend or make any changes to this document, those changes will be prominently posted here.</p>
