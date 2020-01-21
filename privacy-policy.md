@@ -1,4 +1,4 @@
-# Safekeep Cybersecurity's Privacy Policy
+# Privacy Policy
 
 ---
 
