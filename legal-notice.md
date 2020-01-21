@@ -1,6 +1,8 @@
 # Legal Notice
 
-<p>If you require any more information or have any questions about our site's disclaimer, please feel free to contact us by email at legal@safekeepsecurity.com</p>
+<p>If you require any more information or have any questions about our site's disclaimer, please feel free to contact us by email at:</p>
+
+#### legal@safekeepsecurity.com
 
 <h2>Disclaimers for Safekeep Cybersecurity</h2>
 
