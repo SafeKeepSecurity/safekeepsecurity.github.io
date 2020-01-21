@@ -2,7 +2,7 @@
 
 ---
 
-This privacy policy sets out how safekeepsecurity.com collects, uses, and 
+This privacy policy sets out how [safekeep cybersecurity](https://safekeepsecurity.com) collects, uses, and 
 protects any information that you either explicitly or automatically 
 send when using this website. Us at safekeepsecurity.com are deeply concerned 
 with your privacy as a visitor of this website, and the following 
